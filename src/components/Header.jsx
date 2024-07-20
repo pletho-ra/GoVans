@@ -8,7 +8,7 @@ const Header = () => {
   };
   return (
     <header>
-      <Link className="site-logo" to="/">
+      <Link className="site-logo" to="/GoVans">
         #GoVans
       </Link>
       <nav>
